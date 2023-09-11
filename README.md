@@ -1,4 +1,4 @@
-# CSSecurity - Identificae e Fiscalizar
+# CSSecurity - Identificar e Fiscalizar
 
 
 Formado em Desenvolvimento de Sistemas, no ano de 2022, pela ETEC
