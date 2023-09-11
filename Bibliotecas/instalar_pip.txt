@@ -1,0 +1,9 @@
+Versão Python usada no software: 3.8.9 (https://www.python.org/downloads/release/python-389/) - Windows installer (64-bit)
+pip install upgrade pip 
+pip install opencv-contrib-python 
+
+pip install pandas
+pip install pillow
+pip install windows-curses
+pip install tkcalendar
+
